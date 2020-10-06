@@ -1,12 +1,11 @@
 # Name of the project
-PROJECT_NAME = Calculator
+PROJECT_NAME = Progressions
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
-src/calculator_operations.c\
+SRC = progressions.c\
 
 # All test source files
 TEST_SRC = src/calculator_operations.c\
