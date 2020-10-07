@@ -45,7 +45,7 @@ void test_ar_prog(void) {
   CU_ASSERT(10 == ar_prog(1, 1, 5));
 }
 
-void test_gro_prog(void) {
+void test_geo_prog(void) {
   CU_ASSERT(16 == geo_prog(1, 2, 5));
   
   /* Dummy fail*/
