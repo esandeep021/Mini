@@ -5,7 +5,8 @@ PROJECT_NAME = Progressions
 BUILD = build
 
 # All source code files
-SRC = progressions.c\
+SRC = project_main.c\
+src/progressions.c\
 
 # All test source files
 TEST_SRC = src/progressions.c\
