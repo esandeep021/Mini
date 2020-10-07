@@ -20,7 +20,7 @@ int main() {
   
   
   /* Add your test functions in this format for testing*/
-  CU_ap_test(suite, "ar_prog", test_ar_prog)
+  CU_add_test(suite, "ar_prog", test_ar_prog);
   CU_add_test(suite, "geo_prog", test_geo_prog);
 
 
