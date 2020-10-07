@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<progressions.h>
 
 void ar_prog(int a,int d,int n){
 	int loop_var=1,next_term=a;
