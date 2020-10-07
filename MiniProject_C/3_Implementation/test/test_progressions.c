@@ -2,7 +2,7 @@
 #include <CUnit/CUnit.h>
 
 /* Modify these two lines according to the project */
-#include "progressions.h"
+#include <progressions.c>
 #define PROJECT_NAME    "Progressions"
 
 /* Prototypes for all the test functions */
