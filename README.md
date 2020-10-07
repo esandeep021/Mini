@@ -1,4 +1,4 @@
-# STEPin MiniProject_Template Sample
+# GENESIS MiniProject
 
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
