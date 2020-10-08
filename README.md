@@ -3,7 +3,7 @@
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|![Unit testing](https://github.com/stepin85209/Mini/workflows/Unit%20testing/badge.svg)![cppcheck-action]
+|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|![Unit testing](https://github.com/stepin85209/Mini/workflows/Unit%20testing/badge.svg)|![cppcheck-action]
 (https://github.com/stepin85209/Mini/workflows/cppcheck-action/badge.svg)|![Valgrind]
 (https://github.com/stepin654321/MiniProject_Template/workflows/Valgrind/badge.svg)|[![Codacy Badge] (TBD)|
 
